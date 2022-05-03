@@ -1,0 +1,20 @@
+div{
+    margin:50px;
+}
+table{
+    border:1px  maroon;
+    border-radius: 5px;
+}
+tbody{
+    background-color:wheat;
+}
+thead{
+    background-color: maroon;
+    color:#fff;
+}
+.btn{
+    float:right;
+    background-color:maroon;
+    color:#fff;
+    margin-left: 70rem;
+}
